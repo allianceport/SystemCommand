@@ -9,7 +9,7 @@ SystemCommandプラグイン
 インストール
 ------------
 
-本パッケージに含まれる「plugins」ディレクトリ内のディレクトリ「SystemCommand」を、MovableTypeインストールディレクトリの「plugins」ディレクトリの下にコピーしてください。作業後、MovableTypeのシステム・メニューのプラグイン管理画面を表示し、プラグインの一覧に「FixEntryPreference」が表示されていることを確認してください。これで設置完了です。
+本パッケージに含まれる「plugins」ディレクトリ内のディレクトリ「SystemCommand」を、MovableTypeインストールディレクトリの「plugins」ディレクトリの下にコピーしてください。作業後、MovableTypeのシステム・メニューのプラグイン管理画面を表示し、プラグインの一覧に「SystemCommand」が表示されていることを確認してください。これで設置完了です。
 
 使い方
 ------
