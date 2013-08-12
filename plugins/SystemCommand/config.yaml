@@ -1,0 +1,11 @@
+id: systemcommand
+key: MT::Plugin::SystemCommand
+name: SystemCommand
+version: 0.1
+description: <MT_TRANS phrase='description of SystemCommand'>
+author_name: Alliance Port, LLC
+author_link: http://www.allianceport.jp/
+l10n_class: SystemCommand::L10N
+tags:
+    function:
+        system: $SystemCommand::SystemCommand::ContextHandlers::hdlr_tag
